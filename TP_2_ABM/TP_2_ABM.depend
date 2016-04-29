@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1461906823 source:c:\laboratoriouno\tp_2_abm\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"funciones.h"
+
+1461896887 c:\laboratoriouno\tp_2_abm\funciones.h
+
+1461907480 source:c:\laboratoriouno\tp_2_abm\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
